@@ -34,7 +34,9 @@ git clone https://github.com/YOUR_USERNAME/threadcraft-cognos-dashboard.git
 # Navigate to project directory
 cd threadcraft-cognos-dashboard
 
-# Open index.html in your browser
-open index.html
+# Open project.html in your browser
+open project.html
 # OR
-start index.html (Windows)
+start project.html (Windows)
+# OR
+firefox project.html
